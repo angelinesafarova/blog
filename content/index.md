@@ -1,5 +1,5 @@
 ---
-title: Привет!
+title: About me
 ---
 
 Это домашняя страница Славы t.me/slavaswords
