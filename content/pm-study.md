@@ -49,7 +49,7 @@ draft: "false"
 > - https://startinfinity.com/product-management-framework
 > - https://gopractice.ru/course/pm/ (платное)
 > 
-Roadmap
+ > Roadmap
 > - https://roadmap.sh/product-manager
 > - https://docs.google.com/spreadsheets/d/1fwNSY86md_mMdKXaq6e-8FVmhM_wjQsaAdPES10SWeo/edit?gid=0#gid=0
 > - https://podbiratel.com/venture-product-manager
